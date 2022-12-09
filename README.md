@@ -38,6 +38,8 @@ Para la ejecución del proyecto se han usado los siguientes algoritmos. (Más ab
 
 ## Results
 
+![alt text](https://github.com/caleb-vicente/NLP-TV-news-analysis/blob/main/img/stages_project.png)
+
 ## Bibliography
 [1] G. C. Tomas Mikolov Kai Chen y J. Dean, “Efficient Estimation of Word Repre-
 sentations in Vector Space” https://arxiv.org/abs/1301.3781
