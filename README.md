@@ -1,8 +1,10 @@
 # NLP-TV news analysis
 El desarrollo del proyecto está orientado a la extracción de temas y clasificación de documentos escritos, obtenidos a partir de subtítulos de emisiones televisivas. Para ello, se ha experimentado con diferentes algoritmos de vectorización de palabras y documentos, topic modeling y clustering.
 ## Indroduction
-`image stages of the code`
 En cualquier problema relacionado con el análisis de datos (independientemente de los datos que se tengan o el campo de aplicación), se deben cumplir ciertas fases o procesos. Por tanto, el proyecto se dividió en las siguientes fases:
+
+![alt text](https://github.com/caleb-vicente/NLP-TV-news-analysis/blob/main/img/stages_project.png)
+
 - **Preparación**: Durante esta fase se realizará desde la extracción de los datos, hasta la selección y almacenamiento de los mismos.
 - **Preprocesado**: Durante el preprocesado se desea preparar los datos para su posterior analysis. Si un algoritmo está bien seleccionado y funciona de manera correcta, pero los datos que se le introducen como entrada no son los adecuados, se obtendrán resultados negativos.
 - **Análisis**: Durante la etapa del análisis se pasará de tener simples colecciones de datos a extraer información de las mismos.
@@ -38,7 +40,9 @@ Para la ejecución del proyecto se han usado los siguientes algoritmos. (Más ab
 
 ## Results
 
-![alt text](https://github.com/caleb-vicente/NLP-TV-news-analysis/blob/main/img/stages_project.png)
+https://github.com/caleb-vicente/NLP-TV-news-analysis/blob/main/img/topics.png
+
+https://github.com/caleb-vicente/NLP-TV-news-analysis/blob/main/img/topics_day.png
 
 ## Bibliography
 [1] G. C. Tomas Mikolov Kai Chen y J. Dean, “Efficient Estimation of Word Repre-
