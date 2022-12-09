@@ -40,9 +40,9 @@ Para la ejecución del proyecto se han usado los siguientes algoritmos. (Más ab
 
 ## Results
 
-https://github.com/caleb-vicente/NLP-TV-news-analysis/blob/main/img/topics.png
+![alt text](https://github.com/caleb-vicente/NLP-TV-news-analysis/blob/main/img/topics.png)
 
-https://github.com/caleb-vicente/NLP-TV-news-analysis/blob/main/img/topics_day.png
+![alt text](https://github.com/caleb-vicente/NLP-TV-news-analysis/blob/main/img/topics_day.png)
 
 ## Bibliography
 [1] G. C. Tomas Mikolov Kai Chen y J. Dean, “Efficient Estimation of Word Repre-
