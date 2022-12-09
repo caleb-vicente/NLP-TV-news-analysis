@@ -1,0 +1,2704 @@
+2020-06-15 16:11:27,367:create_corpus.py:119:WARNING:RuntimeError---- in normalization text (Preparation corpus in lda)  first time generator fails. 
+2020-06-15 16:28:46,059:ldamodel.py:934:WARNING:too few updates, training might not converge; consider increasing the number of passes or iterations to improve accuracy
+2020-06-15 16:31:33,447:ldamodel.py:934:WARNING:too few updates, training might not converge; consider increasing the number of passes or iterations to improve accuracy
+2020-06-15 16:36:48,746:ldamodel.py:934:WARNING:too few updates, training might not converge; consider increasing the number of passes or iterations to improve accuracy
+2020-06-15 16:37:00,795:ldamodel.py:934:WARNING:too few updates, training might not converge; consider increasing the number of passes or iterations to improve accuracy
+2020-06-15 16:37:02,168:ldamodel.py:934:WARNING:too few updates, training might not converge; consider increasing the number of passes or iterations to improve accuracy
+2020-06-15 16:37:02,354:ldamodel.py:934:WARNING:too few updates, training might not converge; consider increasing the number of passes or iterations to improve accuracy
+2020-06-15 16:37:02,556:ldamodel.py:934:WARNING:too few updates, training might not converge; consider increasing the number of passes or iterations to improve accuracy
+2020-06-15 16:37:02,602:ldamodel.py:934:WARNING:too few updates, training might not converge; consider increasing the number of passes or iterations to improve accuracy
+2020-06-15 16:37:02,808:ldamodel.py:934:WARNING:too few updates, training might not converge; consider increasing the number of passes or iterations to improve accuracy
+2020-06-15 16:37:02,858:ldamodel.py:934:WARNING:too few updates, training might not converge; consider increasing the number of passes or iterations to improve accuracy
+2020-06-15 23:51:39,719:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2016 11 22.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:39,948:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2016 12 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:40,631:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 01 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:40,775:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 01 31.xlogmorning_new está vacio 
+
+2020-06-15 23:51:41,023:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 02 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:41,143:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 02 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:41,356:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 03 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:41,478:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 03 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:41,617:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-06-15 23:51:41,994:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 04 11.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:42,115:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 04 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:42,297:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-06-15 23:51:42,297:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 04 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:42,305:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-06-15 23:51:42,391:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 05 02.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:42,519:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 05 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:44,954:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-06-15 23:51:44,954:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:45,024:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-06-15 23:51:45,085:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 09 30.xlogmorning_new está vacio 
+
+2020-06-15 23:51:45,085:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 09 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:45,183:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-06-15 23:51:45,183:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:45,679:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-06-15 23:51:45,850:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-06-15 23:51:45,850:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:45,878:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-06-15 23:51:46,388:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-06-15 23:51:47,852:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:48,301:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-06-15 23:51:48,301:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:48,834:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2018 05 27.xlogmorning_new está vacio 
+
+2020-06-15 23:51:48,835:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2018 05 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:48,849:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2018 11 18.xlogmorning_new está vacio 
+
+2020-06-15 23:51:50,706:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-06-15 23:51:50,706:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:50,729:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-06-15 23:51:51,352:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 04 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:52,711:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 07 04.xlogmorning_new está vacio 
+
+2020-06-15 23:51:55,143:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:55,160:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-06-15 23:51:55,160:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:55,257:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-06-15 23:51:55,257:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:55,272:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 12 02.xlogmorning_new está vacio 
+
+2020-06-15 23:51:55,677:get_data.py:84:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 12 25.xlogmorning_new está vacio 
+
+2020-06-15 23:51:55,677:get_data.py:86:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 12 25.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:55,867:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2016 11 17.xlogmorning_new está vacio 
+
+2020-06-15 23:51:56,008:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2016 11 22.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:56,276:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2016 12 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:57,019:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 01 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:57,287:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 02 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:57,425:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 02 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:57,667:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 03 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:57,791:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 03 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:57,934:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-06-15 23:51:58,319:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 04 11.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:58,453:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 04 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:58,670:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-06-15 23:51:58,670:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 04 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:58,679:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-06-15 23:51:58,767:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 05 02.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:58,899:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 05 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:51:59,359:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 06 08.xlogmorning_new está vacio 
+
+2020-06-15 23:51:59,360:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 06 08.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:01,185:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-06-15 23:52:01,186:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:01,259:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-06-15 23:52:01,323:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 09 30.xlogmorning_new está vacio 
+
+2020-06-15 23:52:01,323:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 09 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:01,428:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-06-15 23:52:01,428:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:01,922:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-06-15 23:52:02,124:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-06-15 23:52:02,124:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:02,150:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-06-15 23:52:02,734:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-06-15 23:52:04,319:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:04,756:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-06-15 23:52:04,756:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:05,308:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2018 05 27.xlogmorning_new está vacio 
+
+2020-06-15 23:52:05,308:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2018 05 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:05,320:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2018 11 18.xlogmorning_new está vacio 
+
+2020-06-15 23:52:07,305:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-06-15 23:52:07,305:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:07,330:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-06-15 23:52:12,067:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:12,088:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-06-15 23:52:12,088:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:12,187:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-06-15 23:52:12,187:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:12,203:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 12 02.xlogmorning_new está vacio 
+
+2020-06-15 23:52:12,655:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 12 25.xlogmorning_new está vacio 
+
+2020-06-15 23:52:12,655:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 12 25.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:12,910:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2016 11 22.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:13,139:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2016 12 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:13,813:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 01 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:13,947:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 01 31.xlogmorning_new está vacio 
+
+2020-06-15 23:52:14,194:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 02 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:14,327:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 02 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:14,548:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 03 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:14,666:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 03 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:14,802:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-06-15 23:52:15,180:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 04 11.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:15,302:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 04 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:15,494:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-06-15 23:52:15,494:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 04 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:15,503:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-06-15 23:52:15,591:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 05 02.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:15,717:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 05 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:18,184:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-06-15 23:52:18,184:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:18,258:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-06-15 23:52:18,319:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 09 30.xlogmorning_new está vacio 
+
+2020-06-15 23:52:18,319:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 09 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:18,428:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-06-15 23:52:18,428:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:18,893:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-06-15 23:52:19,068:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-06-15 23:52:19,069:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:19,095:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-06-15 23:52:19,630:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-06-15 23:52:21,102:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:21,556:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-06-15 23:52:21,557:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:22,101:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2018 05 27.xlogmorning_new está vacio 
+
+2020-06-15 23:52:22,101:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2018 05 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:22,112:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2018 11 18.xlogmorning_new está vacio 
+
+2020-06-15 23:52:23,996:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-06-15 23:52:23,997:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:24,020:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-06-15 23:52:24,656:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2019 04 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:26,021:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2019 07 04.xlogmorning_new está vacio 
+
+2020-06-15 23:52:28,535:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:28,555:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-06-15 23:52:28,555:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:28,657:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-06-15 23:52:28,657:get_data.py:86:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:28,675:get_data.py:84:WARNING:El subtitulo: subtitles\antena3_spa_TXT.st 2019 12 02.xlogmorning_new está vacio 
+
+2020-06-15 23:52:32,065:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 29.xlog cant be decodified  
+
+2020-06-15 23:52:32,072:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 30.xlog cant be decodified  
+
+2020-06-15 23:52:35,174:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2017 02 20.xlog cant be decodified  
+
+2020-06-15 23:52:35,680:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 05.xlogmorning_new está vacio 
+
+2020-06-15 23:52:36,185:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-06-15 23:52:37,391:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-06-15 23:52:37,467:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-06-15 23:52:38,241:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 05 22.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:42,878:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2017 09 04.xlog cant be decodified  
+
+2020-06-15 23:52:43,848:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-06-15 23:52:43,848:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:44,015:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-06-15 23:52:44,239:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 09 29.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:44,266:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 04.xlogmorning_new está vacio 
+
+2020-06-15 23:52:44,337:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-06-15 23:52:44,337:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:45,533:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-06-15 23:52:45,904:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-06-15 23:52:45,904:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:45,949:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-06-15 23:52:47,286:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-06-15 23:52:47,667:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 01 09.xlog cant be decodified  
+
+2020-06-15 23:52:47,833:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 01 16.xlog cant be decodified  
+
+2020-06-15 23:52:50,309:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:51,043:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-06-15 23:52:51,043:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:54,021:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2018 06 23.xlog cant be decodified  
+
+2020-06-15 23:52:57,939:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 08 10.xlogmorning_new está vacio 
+
+2020-06-15 23:52:57,939:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 08 10.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:58,765:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 04.xlogmorning_new está vacio 
+
+2020-06-15 23:52:58,765:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:52:58,812:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 09 12.xlogmorning_new está vacio 
+
+2020-06-15 23:53:01,261:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 10 29.xlogmorning_new está vacio 
+
+2020-06-15 23:53:01,262:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2018 10 29.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:05,629:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 02 12.xlog cant be decodified  
+
+2020-06-15 23:53:05,949:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-06-15 23:53:05,949:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:05,986:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-06-15 23:53:10,610:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 07 21.xlogmorning_new está vacio 
+
+2020-06-15 23:53:10,610:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 07 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:11,000:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:11,022:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-06-15 23:53:11,023:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:11,178:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-06-15 23:53:11,178:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:11,198:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 02.xlogmorning_new está vacio 
+
+2020-06-15 23:53:11,206:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 12 03.xlog cant be decodified  
+
+2020-06-15 23:53:11,846:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2019 12 21.xlog cant be decodified  
+
+2020-06-15 23:53:12,059:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 27.xlogmorning_new está vacio 
+
+2020-06-15 23:53:12,059:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2019 12 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:14,682:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2016 12 29.xlog cant be decodified  
+
+2020-06-15 23:53:14,689:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2016 12 30.xlog cant be decodified  
+
+2020-06-15 23:53:17,411:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2017 02 20.xlog cant be decodified  
+
+2020-06-15 23:53:17,837:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 03 05.xlogmorning_new está vacio 
+
+2020-06-15 23:53:18,243:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-06-15 23:53:19,265:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-06-15 23:53:19,348:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-06-15 23:53:23,702:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2017 09 04.xlog cant be decodified  
+
+2020-06-15 23:53:24,514:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-06-15 23:53:24,514:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:24,648:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-06-15 23:53:24,826:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 09 29.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:24,855:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 04.xlogmorning_new está vacio 
+
+2020-06-15 23:53:24,917:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-06-15 23:53:24,917:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:25,867:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-06-15 23:53:26,206:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-06-15 23:53:26,206:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:26,247:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-06-15 23:53:27,358:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-06-15 23:53:27,709:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2018 01 09.xlog cant be decodified  
+
+2020-06-15 23:53:27,848:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2018 01 16.xlog cant be decodified  
+
+2020-06-15 23:53:29,961:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:30,605:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-06-15 23:53:30,606:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:36,777:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 08 10.xlogmorning_new está vacio 
+
+2020-06-15 23:53:36,777:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 08 10.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:37,471:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 04.xlogmorning_new está vacio 
+
+2020-06-15 23:53:37,471:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:37,520:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 09 12.xlogmorning_new está vacio 
+
+2020-06-15 23:53:38,312:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 06.xlogmorning_new está vacio 
+
+2020-06-15 23:53:39,422:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 29.xlogmorning_new está vacio 
+
+2020-06-15 23:53:39,422:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2018 10 29.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:43,288:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-06-15 23:53:43,288:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:43,322:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-06-15 23:53:47,083:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 07 21.xlogmorning_new está vacio 
+
+2020-06-15 23:53:47,083:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 07 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:47,429:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:47,449:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-06-15 23:53:47,449:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:47,597:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-06-15 23:53:47,597:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:47,620:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 02.xlogmorning_new está vacio 
+
+2020-06-15 23:53:47,630:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2019 12 03.xlog cant be decodified  
+
+2020-06-15 23:53:48,074:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_TXT.st 2019 12 21.xlog cant be decodified  
+
+2020-06-15 23:53:48,236:get_data.py:84:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 27.xlogmorning_new está vacio 
+
+2020-06-15 23:53:48,236:get_data.py:86:WARNING:El subtitulo: subtitles\La 1_spa_TXT.st 2019 12 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:51,482:get_data.py:84:WARNING:El subtitulo: subtitles\laSexta HD_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-06-15 23:53:51,482:get_data.py:86:WARNING:El subtitulo: subtitles\laSexta HD_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:57,891:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2016 11 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:57,919:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2016 11 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:58,107:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2016 11 16.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:58,256:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2016 11 23.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:58,327:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2016 11 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:58,394:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2016 11 29.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:58,699:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2016 12 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:59,164:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 01 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:59,402:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 01 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:59,436:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 01 19.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:59,463:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 01 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:59,531:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 01 23.xlogafternoon_new está vacio 
+
+2020-06-15 23:53:59,634:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 01 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:00,056:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 02 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:00,454:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 03 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:00,471:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 03 08.xlogmorning_new está vacio 
+
+2020-06-15 23:54:00,487:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 03 09.xlogmorning_new está vacio 
+
+2020-06-15 23:54:00,562:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 03 13.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:00,662:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 03 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:00,688:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 03 19.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:00,707:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 03 20.xlogmorning_new está vacio 
+
+2020-06-15 23:54:00,718:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:00,807:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 03 25.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:00,921:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 03 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:01,113:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 04 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:01,191:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 04 12.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:01,211:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 04 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,274:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 04 17.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,293:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 04 18.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,312:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 04 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,332:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 04 20.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,361:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 04 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,361:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 04 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:01,412:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 04 24.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,429:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 04 25.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,447:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 04 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,457:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,472:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,532:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 02.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,539:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telecinco HD_spa_TXT.st 2017 05 03.xlog cant be decodified  
+
+2020-06-15 23:54:01,567:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,567:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:01,584:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,649:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 08.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,649:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 08.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:01,675:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 09.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,675:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:01,691:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 10.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,708:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 11.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,725:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,779:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 15.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,796:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 16.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,816:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 17.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,833:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 18.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,862:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,885:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:01,921:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 22.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,937:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 23.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,954:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 24.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,970:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 25.xlogmorning_new está vacio 
+
+2020-06-15 23:54:01,997:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,048:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,070:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 30.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,083:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 05 31.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,102:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 01.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,119:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 02.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,166:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,184:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 06.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,202:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 07.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,217:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 08.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,233:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 09.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,272:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 11.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:02,288:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,304:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,319:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 14.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,337:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 15.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,361:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 16.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,361:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 16.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:02,409:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,434:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 20.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,434:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:02,451:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,473:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 22.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,474:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 22.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:02,491:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 23.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,536:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,560:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 27.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,560:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:02,575:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,598:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,598:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 29.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:02,615:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 06 30.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,660:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 03.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,682:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,700:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,715:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 06.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,729:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 07.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,787:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 10.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,787:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 10.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:02,804:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 11.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,820:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,843:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,843:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 13.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:02,858:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 14.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,905:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 17.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,921:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 18.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,949:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,962:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 20.xlogmorning_new está vacio 
+
+2020-06-15 23:54:02,978:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:03,023:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 24.xlogmorning_new está vacio 
+
+2020-06-15 23:54:03,040:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 25.xlogmorning_new está vacio 
+
+2020-06-15 23:54:03,056:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:03,082:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 27.xlogmorning_new está vacio 
+
+2020-06-15 23:54:03,083:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:03,098:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:03,154:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 07 31.xlogmorning_new está vacio 
+
+2020-06-15 23:54:03,170:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 08 01.xlogmorning_new está vacio 
+
+2020-06-15 23:54:03,194:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 08 02.xlogmorning_new está vacio 
+
+2020-06-15 23:54:03,194:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 08 02.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:03,216:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 08 03.xlogmorning_new está vacio 
+
+2020-06-15 23:54:03,216:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 08 03.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:03,232:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 08 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:03,291:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 08 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:03,318:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 08 08.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:03,344:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 08 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:03,369:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 08 10.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:03,429:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 08 13.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:03,669:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 08 24.xlogmorning_new está vacio 
+
+2020-06-15 23:54:03,694:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 08 25.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:03,745:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 08 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:03,775:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 08 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:03,775:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 08 29.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:03,792:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 08 30.xlogmorning_new está vacio 
+
+2020-06-15 23:54:03,808:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 08 31.xlogmorning_new está vacio 
+
+2020-06-15 23:54:03,824:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 01.xlogmorning_new está vacio 
+
+2020-06-15 23:54:03,848:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 02.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:03,876:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:03,893:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:03,909:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 06.xlogmorning_new está vacio 
+
+2020-06-15 23:54:03,940:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 08.xlogmorning_new está vacio 
+
+2020-06-15 23:54:03,986:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 11.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,025:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,025:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 12.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:04,044:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,060:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 14.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,075:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 15.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,121:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 18.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,139:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,154:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 20.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,172:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,187:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 22.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,222:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,222:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:04,234:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 25.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,257:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,257:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:04,273:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 27.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,306:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,306:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:04,316:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,326:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 30.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,326:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 09 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:04,334:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 02.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,351:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 03.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,367:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,383:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,408:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 06.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,408:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:04,417:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,417:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:04,434:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 09.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,434:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:04,446:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 10.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,467:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 12.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:04,485:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,532:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 16.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,548:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 17.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,574:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 18.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,574:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:04,589:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,606:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 20.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,632:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 23.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,649:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 24.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,669:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 25.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,762:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 30.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,781:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 10 31.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,831:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 02.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,856:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 03.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,856:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 03.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:04,907:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 06.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,925:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 07.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,941:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 08.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,956:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-06-15 23:54:04,973:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 10.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,025:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,053:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 14.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,053:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:05,071:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 15.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,088:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 16.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,105:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 17.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,191:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,191:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:05,197:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,213:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 24.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,260:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 27.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,277:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,295:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,311:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 11 30.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,326:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 12 01.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,372:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 12 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,389:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 12 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,418:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 12 07.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,480:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 12 11.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,497:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 12 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,511:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 12 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,541:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 12 14.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,565:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 12 15.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,565:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 12 15.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:05,616:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 12 18.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,634:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 12 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,650:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 12 20.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,681:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 12 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,681:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 12 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:05,699:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 12 22.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,773:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 12 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:05,779:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,779:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2017 12 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:05,889:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 02.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,904:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 03.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,919:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,938:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:05,961:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:05,993:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 08.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,016:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 09.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,032:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 10.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,050:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 11.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,067:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,117:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 15.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,134:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 16.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,150:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 17.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,166:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 18.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,182:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,231:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 22.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,249:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 23.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,265:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 24.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,280:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 25.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,298:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,344:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,363:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 30.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,378:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 01 31.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,392:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 01.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,416:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 02.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,417:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 02.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:06,436:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 03.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:06,467:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,484:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 06.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,498:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 07.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,515:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 08.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,530:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 09.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,584:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,600:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,615:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 14.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,631:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 15.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,648:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 16.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,685:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:06,705:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,723:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 20.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,735:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,751:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 22.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,780:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 23.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,780:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 23.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:06,831:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,862:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 27.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,862:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:06,878:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 02 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,894:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 03 01.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,914:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 03 02.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,963:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 03 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,983:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 03 06.xlogmorning_new está vacio 
+
+2020-06-15 23:54:06,998:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 03 07.xlogmorning_new está vacio 
+
+2020-06-15 23:54:07,015:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 03 08.xlogmorning_new está vacio 
+
+2020-06-15 23:54:07,042:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 03 09.xlogmorning_new está vacio 
+
+2020-06-15 23:54:07,428:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 03 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:07,524:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 03 23.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:07,780:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 03 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:07,795:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 04 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:07,796:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:07,966:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 04 08.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:08,172:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 04 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:08,172:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 04 12.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:08,605:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:08,605:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:08,662:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 04 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:08,815:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 05 06.xlogmorning_new está vacio 
+
+2020-06-15 23:54:08,846:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 05 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:09,044:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telecinco HD_spa_TXT.st 2018 05 15.xlog cant be decodified  
+
+2020-06-15 23:54:09,245:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 05 24.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:09,307:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 05 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:09,336:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 05 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:09,595:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 06 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:09,639:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 06 10.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:09,690:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 06 11.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:09,918:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 06 16.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:09,983:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 06 19.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:10,029:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 06 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:10,189:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 06 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:10,231:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 06 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:10,452:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:10,495:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 05.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:10,628:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 08.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:10,677:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:10,733:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 10.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:10,828:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 12.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:10,900:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 13.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:10,971:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,043:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 15.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,100:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 16.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,157:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 17.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,208:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,241:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 19.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,272:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,322:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,395:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 22.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,486:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 23.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,534:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 24.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,585:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 25.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,642:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,683:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,708:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,735:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 29.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,761:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,790:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 07 31.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,815:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 08 01.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,840:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 08 02.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,866:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 08 03.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,902:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 08 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,963:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 08 05.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:11,992:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 08 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,019:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 08 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,048:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 08 08.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,079:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 08 10.xlogmorning_new está vacio 
+
+2020-06-15 23:54:12,079:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 08 10.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,100:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 08 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,149:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 08 23.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,226:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 08 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,255:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 08 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,284:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 08 29.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,312:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 08 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,422:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 09 03.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,432:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 09 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:12,432:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 09 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,440:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 09 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:12,466:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 09 13.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,497:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 09 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,569:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 09 17.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,598:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 09 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,712:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 09 24.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,743:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 09 25.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,770:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 09 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,798:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 09 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,836:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 09 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,895:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 10 01.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,937:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 10 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:12,970:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 10 31.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:13,040:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 11 03.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:13,105:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 11 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:13,134:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 11 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:13,183:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 11 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:13,253:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 11 12.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:13,282:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 11 13.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:13,310:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 11 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:13,435:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2018 11 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:13,441:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 01 23.xlogmorning_new está vacio 
+
+2020-06-15 23:54:13,451:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 01 24.xlogmorning_new está vacio 
+
+2020-06-15 23:54:13,451:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 01 24.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:13,463:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 01 25.xlogmorning_new está vacio 
+
+2020-06-15 23:54:13,463:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 01 25.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:13,478:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 01 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:13,478:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 01 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:13,490:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 01 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:13,501:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 01 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:13,501:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 01 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:13,503:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:13,522:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 03 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:13,531:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 03 23.xlogmorning_new está vacio 
+
+2020-06-15 23:54:13,558:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 03 25.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:13,608:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 03 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:13,642:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 03 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:13,680:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 03 29.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:13,695:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 03 30.xlogmorning_new está vacio 
+
+2020-06-15 23:54:13,710:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 03 31.xlogmorning_new está vacio 
+
+2020-06-15 23:54:13,848:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 04 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:13,896:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 04 08.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:13,932:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 04 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,000:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 04 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,017:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 04 14.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,113:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 04 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,113:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 04 19.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,129:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 04 20.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,145:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 04 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,171:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 04 22.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,200:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 04 23.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,228:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 04 24.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,264:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 04 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,272:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 04 27.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,273:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 04 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,284:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,344:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,344:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,360:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 22.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,419:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 25.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,457:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,488:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,502:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 09 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,545:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,606:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,620:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,636:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 06.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,664:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,711:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,769:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,789:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,803:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,830:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,859:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,865:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 17.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,877:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,877:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,885:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,895:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,915:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 22.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,923:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 23.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,923:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 23.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,930:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 24.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,930:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 24.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,949:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,949:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,959:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,969:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,970:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,976:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,989:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 30.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,989:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:14,991:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:14,991:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:15,000:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 11 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,000:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 11 05.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:15,009:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,009:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:15,011:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 11 11.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,019:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 11 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,029:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 11 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,037:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 11 14.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,037:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 11 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:15,047:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 11 15.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:15,054:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 11 16.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,054:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 11 16.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:15,060:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 11 17.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,074:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 11 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,074:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 11 19.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:15,078:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 11 20.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,078:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 11 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:15,080:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 12 15.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,080:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 12 15.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:15,083:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 12 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,083:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 12 19.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:15,088:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 12 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,104:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 12 22.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,133:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 12 23.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:15,167:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 12 25.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,198:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telecinco HD_spa_TXT.st 2019 12 27.xlog cant be decodified  
+
+2020-06-15 23:54:15,214:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 12 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,241:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 12 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,287:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2019 12 31.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:15,305:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2020 01 01.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,359:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2020 01 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,376:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2020 01 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,512:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2020 01 11.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,513:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2020 01 11.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:15,523:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2020 01 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,523:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2020 01 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:15,529:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2020 03 25.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,609:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2020 03 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,675:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2020 03 31.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:15,759:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2020 04 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,848:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2020 04 08.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:15,871:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2020 04 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:15,897:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2020 04 10.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,897:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2020 04 10.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:15,913:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2020 04 11.xlogmorning_new está vacio 
+
+2020-06-15 23:54:15,956:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco HD_spa_TXT.st 2020 04 12.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:15,974:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2016 11 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:16,004:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2016 11 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:16,190:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2016 11 16.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:16,340:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2016 11 23.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:16,405:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2016 11 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:16,473:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2016 11 29.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:16,784:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2016 12 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:17,218:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 01 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:17,452:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 01 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:17,481:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 01 19.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:17,510:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 01 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:17,573:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 01 23.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:17,673:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 01 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:18,083:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 02 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:18,412:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 03 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:18,431:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 03 08.xlogmorning_new está vacio 
+
+2020-06-15 23:54:18,447:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 03 09.xlogmorning_new está vacio 
+
+2020-06-15 23:54:18,524:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 03 13.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:18,624:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 03 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:18,650:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 03 19.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:18,668:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 03 20.xlogmorning_new está vacio 
+
+2020-06-15 23:54:18,679:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:18,782:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 03 25.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:18,891:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 03 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:19,086:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 04 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:19,158:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 04 12.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:19,178:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 04 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,248:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 04 17.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,267:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 04 18.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,289:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 04 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,314:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 04 20.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,348:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 04 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,348:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 04 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:19,398:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 04 24.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,415:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 04 25.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,440:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 04 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,450:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 04 27.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,465:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 04 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,525:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 02.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,532:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telecinco_spa_TXT.st 2017 05 03.xlog cant be decodified  
+
+2020-06-15 23:54:19,560:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,560:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:19,574:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,635:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 08.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,635:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 08.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:19,660:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 09.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,660:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:19,679:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 10.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,708:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 11.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,738:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,792:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 15.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,810:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 16.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,826:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 17.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,842:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 18.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,858:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,881:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:19,916:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 22.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,933:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 23.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,949:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 24.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,965:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 25.xlogmorning_new está vacio 
+
+2020-06-15 23:54:19,992:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,041:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,064:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 30.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,076:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 05 31.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,095:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 01.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,112:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 02.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,154:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,171:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 06.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,190:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 07.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,204:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 08.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,222:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 09.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,258:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 11.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:20,289:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,305:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,319:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 14.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,336:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 15.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,359:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 16.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,359:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 16.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:20,405:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,430:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 20.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,431:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:20,445:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,468:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 22.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,468:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 22.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:20,493:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 23.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,541:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,566:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 27.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,566:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:20,583:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,615:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,615:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 29.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:20,632:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 06 30.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,683:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 03.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,705:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,724:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,740:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 06.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,755:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 07.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,811:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 10.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,812:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 10.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:20,830:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 11.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,852:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,887:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,887:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 13.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:20,903:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 14.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,948:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 17.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,967:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 18.xlogmorning_new está vacio 
+
+2020-06-15 23:54:20,990:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,004:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 20.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,018:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,066:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 24.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,081:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 25.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,096:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,120:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 27.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,120:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:21,136:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,183:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 07 31.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,199:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 08 01.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,224:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 08 02.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,224:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 08 02.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:21,249:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 08 03.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,250:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 08 03.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:21,270:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 08 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,330:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 08 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:21,358:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 08 08.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:21,382:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 08 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:21,407:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 08 10.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:21,464:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 08 13.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:21,684:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 08 24.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,709:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 08 25.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:21,760:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 08 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,785:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 08 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,786:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 08 29.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:21,802:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 08 30.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,818:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 08 31.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,835:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 01.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,860:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 02.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:21,887:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,904:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,933:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 06.xlogmorning_new está vacio 
+
+2020-06-15 23:54:21,968:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 08.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,016:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 11.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,057:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,057:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 12.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:22,074:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,091:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 14.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,108:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 15.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,153:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 18.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,183:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,200:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 20.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,221:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,240:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 22.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,275:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,275:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:22,285:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 25.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,311:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,311:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:22,328:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 27.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,354:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,354:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:22,365:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,373:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 30.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,373:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 09 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:22,381:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 02.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,403:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 03.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,419:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,438:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,463:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 06.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,463:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:22,471:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,471:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:22,490:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 09.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,490:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:22,501:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 10.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,521:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 12.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:22,539:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,591:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 16.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,610:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 17.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,635:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 18.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,636:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:22,651:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,668:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 20.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,694:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 23.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,711:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 24.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,727:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 25.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,813:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 30.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,831:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 10 31.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,879:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 02.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,904:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 03.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,905:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 03.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:22,958:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 06.xlogmorning_new está vacio 
+
+2020-06-15 23:54:22,987:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 07.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,004:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 08.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,018:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,037:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 10.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,096:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,135:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 14.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,135:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:23,154:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 15.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,171:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 16.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,191:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 17.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,283:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,283:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:23,293:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,309:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 24.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,356:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 27.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,373:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,395:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,415:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 11 30.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,435:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 12 01.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,482:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 12 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,502:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 12 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,532:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 12 07.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,602:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 12 11.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,619:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 12 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,634:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 12 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,649:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 12 14.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,675:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 12 15.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,675:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 12 15.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:23,733:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 12 18.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,750:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 12 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,767:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 12 20.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,793:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 12 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,794:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 12 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:23,811:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 12 22.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,885:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 12 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:23,892:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-06-15 23:54:23,892:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2017 12 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:24,000:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 02.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,015:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 03.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,034:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,054:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,078:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:24,112:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 08.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,130:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 09.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,146:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 10.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,164:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 11.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,181:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,232:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 15.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,251:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 16.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,267:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 17.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,283:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 18.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,298:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,349:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 22.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,369:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 23.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,386:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 24.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,401:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 25.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,419:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,467:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,485:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 30.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,499:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 01 31.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,515:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 01.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,539:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 02.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,539:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 02.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:24,559:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 03.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:24,597:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,614:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 06.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,628:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 07.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,644:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 08.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,662:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 09.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,712:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,727:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,751:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 14.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,773:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 15.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,801:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 16.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,840:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:24,860:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,878:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 20.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,892:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,908:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 22.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,942:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 23.xlogmorning_new está vacio 
+
+2020-06-15 23:54:24,942:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 23.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:24,991:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:25,015:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 27.xlogmorning_new está vacio 
+
+2020-06-15 23:54:25,016:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:25,031:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 02 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:25,049:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 03 01.xlogmorning_new está vacio 
+
+2020-06-15 23:54:25,065:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 03 02.xlogmorning_new está vacio 
+
+2020-06-15 23:54:25,114:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 03 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:25,130:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 03 06.xlogmorning_new está vacio 
+
+2020-06-15 23:54:25,145:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 03 07.xlogmorning_new está vacio 
+
+2020-06-15 23:54:25,163:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 03 08.xlogmorning_new está vacio 
+
+2020-06-15 23:54:25,180:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 03 09.xlogmorning_new está vacio 
+
+2020-06-15 23:54:25,413:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 03 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:25,459:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 03 23.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:25,576:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 03 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:25,581:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 04 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:25,581:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:25,661:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 04 08.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:25,746:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 04 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:25,746:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 04 12.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:26,031:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 04 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:26,031:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:26,083:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 04 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:26,250:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 05 06.xlogmorning_new está vacio 
+
+2020-06-15 23:54:26,285:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 05 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:26,502:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telecinco_spa_TXT.st 2018 05 15.xlog cant be decodified  
+
+2020-06-15 23:54:26,726:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 05 24.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:26,791:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 05 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:26,821:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 05 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:27,111:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 06 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:27,156:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 06 10.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:27,204:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 06 11.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:27,384:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 06 16.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:27,447:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 06 19.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:27,496:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 06 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:27,662:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 06 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:27,705:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 06 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:27,923:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:27,976:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 05.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,084:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 08.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,124:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,159:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 10.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,212:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 12.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,255:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 13.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,296:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,345:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 15.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,388:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 16.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,430:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 17.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,485:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,513:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 19.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,540:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,580:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,628:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 22.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,666:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 23.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,697:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 24.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,722:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 25.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,751:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,777:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,804:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,833:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 29.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,865:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,894:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 07 31.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,920:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 08 01.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,945:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 08 02.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:28,971:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 08 03.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,012:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 08 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,053:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 08 05.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,089:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 08 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,117:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 08 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,147:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 08 08.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,177:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 08 10.xlogmorning_new está vacio 
+
+2020-06-15 23:54:29,177:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 08 10.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,198:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 08 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,244:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 08 23.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,324:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 08 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,364:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 08 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,392:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 08 29.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,419:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 08 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,520:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 09 03.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,530:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 09 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:29,531:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 09 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,538:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 09 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:29,564:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 09 13.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,590:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 09 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,660:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 09 17.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,694:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 09 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,810:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 09 24.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,841:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 09 25.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,869:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 09 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,896:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 09 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,929:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 09 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:29,992:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 10 01.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:30,039:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 10 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:30,070:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 10 31.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:30,136:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 11 03.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:30,207:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 11 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:30,235:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 11 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:30,282:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 11 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:30,359:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 11 12.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:30,390:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 11 13.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:30,419:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 11 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:30,532:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2018 11 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:30,541:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 01 23.xlogmorning_new está vacio 
+
+2020-06-15 23:54:30,552:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 01 24.xlogmorning_new está vacio 
+
+2020-06-15 23:54:30,553:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 01 24.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:30,565:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 01 25.xlogmorning_new está vacio 
+
+2020-06-15 23:54:30,565:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 01 25.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:30,578:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 01 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:30,578:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 01 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:30,591:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 01 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:30,602:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 01 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:30,602:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 01 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:30,605:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:30,626:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 03 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:30,642:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 03 23.xlogmorning_new está vacio 
+
+2020-06-15 23:54:30,667:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 03 25.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:30,719:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 03 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:30,751:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 03 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:30,782:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 03 29.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:30,796:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 03 30.xlogmorning_new está vacio 
+
+2020-06-15 23:54:30,813:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 03 31.xlogmorning_new está vacio 
+
+2020-06-15 23:54:30,953:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 04 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:30,999:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 04 08.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:31,037:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 04 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:31,101:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 04 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:31,118:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 04 14.xlogmorning_new está vacio 
+
+2020-06-15 23:54:31,210:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 04 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:31,210:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 04 19.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:31,227:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 04 20.xlogmorning_new está vacio 
+
+2020-06-15 23:54:31,246:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 04 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:31,272:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 04 22.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:31,301:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 04 23.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:31,329:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 04 24.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:31,365:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 04 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:31,373:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 04 27.xlogmorning_new está vacio 
+
+2020-06-15 23:54:31,373:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 04 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:31,378:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 18.xlogmorning_new está vacio 
+
+2020-06-15 23:54:31,437:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:31,437:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:31,455:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 22.xlogmorning_new está vacio 
+
+2020-06-15 23:54:31,516:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 25.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:31,558:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:31,602:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:31,618:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 09 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:31,687:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 01.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:31,753:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:31,769:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:31,787:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 06.xlogmorning_new está vacio 
+
+2020-06-15 23:54:31,844:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:31,891:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:31,936:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 11.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:31,952:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:31,967:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,003:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,035:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 16.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,042:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 17.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,055:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,055:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,063:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,074:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,093:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 22.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,102:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 23.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,102:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 23.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,110:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 24.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,110:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 24.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,124:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,124:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,135:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,147:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,147:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,152:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,163:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 30.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,164:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,165:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,165:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,173:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 11 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,174:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 11 05.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,182:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,182:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,184:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 11 11.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,188:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 11 12.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,198:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 11 13.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,205:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 11 14.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,205:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 11 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,214:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 11 15.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,221:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 11 16.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,221:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 11 16.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,225:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 11 17.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,240:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 11 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,240:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 11 19.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,244:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 11 20.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,244:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 11 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,246:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 12 15.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,246:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 12 15.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,248:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 12 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,248:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 12 19.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,254:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 12 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,270:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 12 22.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,299:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 12 23.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,334:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 12 25.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,360:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telecinco_spa_TXT.st 2019 12 27.xlog cant be decodified  
+
+2020-06-15 23:54:32,377:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 12 28.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,393:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 12 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,443:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2019 12 31.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,457:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2020 01 01.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,514:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2020 01 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,530:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2020 01 05.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,664:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2020 01 11.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,664:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2020 01 11.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,675:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2020 01 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,675:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2020 01 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,681:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2020 03 25.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,762:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2020 03 29.xlogmorning_new está vacio 
+
+2020-06-15 23:54:32,817:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2020 03 31.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:32,904:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2020 04 04.xlogmorning_new está vacio 
+
+2020-06-15 23:54:33,005:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2020 04 08.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:33,031:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2020 04 09.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:33,056:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2020 04 10.xlogmorning_new está vacio 
+
+2020-06-15 23:54:33,057:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2020 04 10.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:33,072:get_data.py:84:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2020 04 11.xlogmorning_new está vacio 
+
+2020-06-15 23:54:33,115:get_data.py:86:WARNING:El subtitulo: subtitles\Telecinco_spa_TXT.st 2020 04 12.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:34,864:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 01 05.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:35,204:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 01 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:36,538:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 03 01.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:36,601:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 03 03.xlogmorning_new está vacio 
+
+2020-06-15 23:54:37,158:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:37,899:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 04 13.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:37,912:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 04 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:38,584:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2017 05 09.xlog cant be decodified  
+
+2020-06-15 23:54:38,798:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 05 15.xlogmorning_new está vacio 
+
+2020-06-15 23:54:38,798:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 05 15.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:38,945:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 05 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:39,470:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 06 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:39,855:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 06 18.xlogmorning_new está vacio 
+
+2020-06-15 23:54:40,004:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 06 24.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:40,187:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 06 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:40,282:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 07 01.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:40,542:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 07 08.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:40,820:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 07 15.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:40,926:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 07 22.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:41,120:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 07 29.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:41,293:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 08 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:41,540:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 08 17.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:41,597:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 08 19.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:41,974:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 09 02.xlogmorning_new está vacio 
+
+2020-06-15 23:54:42,469:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 09 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:42,486:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 09 22.xlogmorning_new está vacio 
+
+2020-06-15 23:54:42,538:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 09 24.xlogmorning_new está vacio 
+
+2020-06-15 23:54:42,539:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 09 24.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:42,599:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 09 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:42,676:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 09 30.xlogmorning_new está vacio 
+
+2020-06-15 23:54:42,677:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 09 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:42,858:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 10 06.xlogmorning_new está vacio 
+
+2020-06-15 23:54:42,870:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 10 07.xlogmorning_new está vacio 
+
+2020-06-15 23:54:42,870:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 10 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:43,441:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 10 26.xlogmorning_new está vacio 
+
+2020-06-15 23:54:43,842:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 11 07.xlogmorning_new está vacio 
+
+2020-06-15 23:54:43,946:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 11 09.xlogmorning_new está vacio 
+
+2020-06-15 23:54:44,359:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 11 21.xlogmorning_new está vacio 
+
+2020-06-15 23:54:44,359:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 11 21.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:44,381:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 11 23.xlogmorning_new está vacio 
+
+2020-06-15 23:54:45,725:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 12 27.xlogmorning_new está vacio 
+
+2020-06-15 23:54:45,725:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2017 12 27.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:46,164:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2018 01 05.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:49,200:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2018 03 18.xlog cant be decodified  
+
+2020-06-15 23:54:49,515:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2018 03 25.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:49,699:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2018 03 29.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:49,714:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2018 03 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:49,919:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2018 04 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:50,688:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2018 04 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:50,859:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2018 05 01.xlog cant be decodified  
+
+2020-06-15 23:54:50,893:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2018 05 02.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:51,188:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2018 05 10.xlogmorning_new está vacio 
+
+2020-06-15 23:54:51,371:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2018 05 15.xlogmorning_new está vacio 
+
+2020-06-15 23:54:51,371:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2018 05 15.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:51,478:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2018 05 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:51,525:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2018 05 22.xlog cant be decodified  
+
+2020-06-15 23:54:51,636:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2018 05 28.xlog cant be decodified  
+
+2020-06-15 23:54:51,800:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2018 06 05.xlog cant be decodified  
+
+2020-06-15 23:54:52,256:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2018 07 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:52,331:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2018 07 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:52,538:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2018 07 20.xlog cant be decodified  
+
+2020-06-15 23:54:52,732:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2018 07 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:52,903:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2018 08 05.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:52,946:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2018 08 07.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:52,968:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2018 11 18.xlogmorning_new está vacio 
+
+2020-06-15 23:54:53,055:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2018 11 21.xlog cant be decodified  
+
+2020-06-15 23:54:53,102:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2018 11 23.xlog cant be decodified  
+
+2020-06-15 23:54:53,401:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2018 12 01.xlog cant be decodified  
+
+2020-06-15 23:54:54,460:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 01 05.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:54,824:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 01 16.xlog cant be decodified  
+
+2020-06-15 23:54:54,868:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 01 19.xlog cant be decodified  
+
+2020-06-15 23:54:55,154:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 02 01.xlog cant be decodified  
+
+2020-06-15 23:54:55,587:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 02 16.xlogmorning_new está vacio 
+
+2020-06-15 23:54:55,587:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 02 16.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:55,660:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 02 20.xlogmorning_new está vacio 
+
+2020-06-15 23:54:55,661:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 02 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:55,666:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 03 19.xlogmorning_new está vacio 
+
+2020-06-15 23:54:55,925:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 03 30.xlog cant be decodified  
+
+2020-06-15 23:54:56,364:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 04 12.xlog cant be decodified  
+
+2020-06-15 23:54:56,477:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 04 14.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:56,597:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 04 17.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:56,648:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 04 19.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:56,886:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 04 28.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:56,999:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 05 02.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:57,198:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 05 07.xlog cant be decodified  
+
+2020-06-15 23:54:57,436:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 05 13.xlog cant be decodified  
+
+2020-06-15 23:54:57,524:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 05 15.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:57,766:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 05 19.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:57,890:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 05 22.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:58,092:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 05 26.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:58,135:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 05 28.xlog cant be decodified  
+
+2020-06-15 23:54:58,354:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 06 02.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:58,841:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 06 14.xlog cant be decodified  
+
+2020-06-15 23:54:58,962:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 06 19.xlog cant be decodified  
+
+2020-06-15 23:54:59,025:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 06 22.xlog cant be decodified  
+
+2020-06-15 23:54:59,481:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 07 03.xlogafternoon_new está vacio 
+
+2020-06-15 23:54:59,626:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 07 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:55:00,029:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 07 20.xlog cant be decodified  
+
+2020-06-15 23:55:00,042:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 07 21.xlog cant be decodified  
+
+2020-06-15 23:55:00,176:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 07 27.xlog cant be decodified  
+
+2020-06-15 23:55:00,188:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 07 28.xlog cant be decodified  
+
+2020-06-15 23:55:00,409:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 08 03.xlogafternoon_new está vacio 
+
+2020-06-15 23:55:00,968:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 08 21.xlog cant be decodified  
+
+2020-06-15 23:55:01,211:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 09 01.xlog cant be decodified  
+
+2020-06-15 23:55:01,216:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 09 02.xlog cant be decodified  
+
+2020-06-15 23:55:01,788:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 09 22.xlogmorning_new está vacio 
+
+2020-06-15 23:55:02,979:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 10 17.xlog cant be decodified  
+
+2020-06-15 23:55:03,320:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 10 30.xlogafternoon_new está vacio 
+
+2020-06-15 23:55:03,324:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 11 04.xlogmorning_new está vacio 
+
+2020-06-15 23:55:03,324:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 11 04.xlogafternoon_new está vacio 
+
+2020-06-15 23:55:03,362:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 11 06.xlogmorning_new está vacio 
+
+2020-06-15 23:55:03,362:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 11 06.xlogafternoon_new está vacio 
+
+2020-06-15 23:55:03,368:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 11 11.xlogmorning_new está vacio 
+
+2020-06-15 23:55:03,368:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 11 11.xlogafternoon_new está vacio 
+
+2020-06-15 23:55:03,400:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 11 13.xlog cant be decodified  
+
+2020-06-15 23:55:03,567:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 11 20.xlogmorning_new está vacio 
+
+2020-06-15 23:55:03,567:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 11 20.xlogafternoon_new está vacio 
+
+2020-06-15 23:55:03,603:get_data.py:84:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 11 21.xlogmorning_new está vacio 
+
+2020-06-15 23:55:03,727:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 11 24.xlog cant be decodified  
+
+2020-06-15 23:55:03,783:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 11 26.xlog cant be decodified  
+
+2020-06-15 23:55:04,321:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 12 07.xlog cant be decodified  
+
+2020-06-15 23:55:04,333:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 12 08.xlog cant be decodified  
+
+2020-06-15 23:55:04,341:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 12 09.xlog cant be decodified  
+
+2020-06-15 23:55:04,855:get_data.py:102:WARNING:UnicodeDecodeError --- The subtititle: subtitles\Telemadrid_spa_OCR.st 2019 12 19.xlog cant be decodified  
+
+2020-06-15 23:55:04,977:get_data.py:86:WARNING:El subtitulo: subtitles\Telemadrid_spa_OCR.st 2019 12 21.xlogafternoon_new está vacio 
+
+2020-06-16 00:27:06,758:create_corpus.py:119:WARNING:RuntimeError---- in normalization text (Preparation corpus in lda)  first time generator fails. 

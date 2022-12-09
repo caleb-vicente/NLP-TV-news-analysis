@@ -1,0 +1,22 @@
+2020-08-23 10:16:01,895:base_any2vec.py:720:WARNING:consider setting layer size to a multiple of 4 for greater performance
+2020-08-23 10:27:13,337:base_any2vec.py:720:WARNING:consider setting layer size to a multiple of 4 for greater performance
+2020-08-23 10:54:17,568:dBAdapter.py:46:WARNING:Error in function get_maxDocuments
+2020-08-23 10:54:17,572:dBAdapter.py:141:WARNING:Error in function select_dataDoc2Vec
+2020-08-23 11:05:16,183:dBAdapter.py:46:WARNING:Error in function get_maxDocuments
+2020-08-23 11:06:39,349:dBAdapter.py:46:WARNING:Error in function get_maxDocuments
+2020-08-23 11:07:09,372:dBAdapter.py:120:WARNING:Error in function selectDic_subtitles_limit
+2020-08-23 11:29:19,424:dBAdapter.py:46:WARNING:Error in function get_maxDocuments
+2020-08-23 12:09:06,207:base_any2vec.py:720:WARNING:consider setting layer size to a multiple of 4 for greater performance
+2020-08-23 18:16:46,328:base_any2vec.py:720:WARNING:consider setting layer size to a multiple of 4 for greater performance
+2020-08-23 19:37:40,815:base_any2vec.py:720:WARNING:consider setting layer size to a multiple of 4 for greater performance
+2020-08-23 20:13:41,048:base_any2vec.py:720:WARNING:consider setting layer size to a multiple of 4 for greater performance
+2020-08-23 20:56:57,761:base_any2vec.py:720:WARNING:consider setting layer size to a multiple of 4 for greater performance
+2020-08-24 00:29:04,003:base_any2vec.py:720:WARNING:consider setting layer size to a multiple of 4 for greater performance
+2020-08-24 00:30:03,427:base_any2vec.py:720:WARNING:consider setting layer size to a multiple of 4 for greater performance
+2020-08-24 00:30:34,251:base_any2vec.py:720:WARNING:consider setting layer size to a multiple of 4 for greater performance
+2020-08-24 00:30:40,482:base_any2vec.py:720:WARNING:consider setting layer size to a multiple of 4 for greater performance
+2020-08-24 00:30:46,624:base_any2vec.py:720:WARNING:consider setting layer size to a multiple of 4 for greater performance
+2020-08-24 00:37:13,074:base_any2vec.py:720:WARNING:consider setting layer size to a multiple of 4 for greater performance
+2020-08-24 00:37:49,564:base_any2vec.py:720:WARNING:consider setting layer size to a multiple of 4 for greater performance
+2020-08-24 00:37:55,459:base_any2vec.py:720:WARNING:consider setting layer size to a multiple of 4 for greater performance
+2020-08-24 00:38:01,604:base_any2vec.py:720:WARNING:consider setting layer size to a multiple of 4 for greater performance

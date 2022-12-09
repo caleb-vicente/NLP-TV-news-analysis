@@ -1,0 +1,33 @@
+root_password: tfg_project
+TCP port: 3306
+
+database: news_storage
+	  tables:
+		tv_storage
+
+
+CREATE TABLE `tv_storage` (
+  `id` int(20) NOT NULL AUTO_INCREMENT,
+  `name` varchar(50) NOT NULL,
+  `date` varchar(50) NOT NULL,
+  `state` varchar(25) NOT NULL,
+  `autotimestamp` timestamp NOT NULL DEFAULT current_timestamp(),
+  `body` mediumtext DEFAULT NULL,
+  `normalize_text` mediumtext DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `name` (`name`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+
+INSERTAR DATOSDOC2VEC EN LA BASE DE DATOS:
+-------------------------------------------------------------
+    files = []
+    [files,max_files]= g.get_NameFiles()
+    [dic_subtitles,data]=c.create_d2v_corpus(max_files)
+    
+    subtitles=list(dic_subtitles.keys())
+    #insertar en la base de datos:
+    dbAdapter = dBAdapter.Database()
+    dbAdapter.open()
+    for i in tqdm(range(len(subtitles))):
+        dbAdapter.insert_dataDoc2Vec(subtitles[i], data[i])
+    dbAdapter.close()

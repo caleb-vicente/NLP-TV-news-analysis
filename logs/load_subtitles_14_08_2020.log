@@ -1,0 +1,11 @@
+2020-08-14 10:39:18,065:dBAdapter.py:46:WARNING:Error in function get_maxDocuments
+2020-08-14 10:39:18,072:dBAdapter.py:131:WARNING:Error in function selectGenerator_normalize_limit
+2020-08-14 10:39:18,073:dBAdapter.py:120:WARNING:Error in function selectDic_subtitles_limit
+2020-08-14 10:57:56,581:dBAdapter.py:46:WARNING:Error in function get_maxDocuments
+2020-08-14 10:57:56,585:dBAdapter.py:131:WARNING:Error in function selectGenerator_normalize_limit
+2020-08-14 10:57:56,586:dBAdapter.py:120:WARNING:Error in function selectDic_subtitles_limit
+2020-08-14 11:01:55,821:dBAdapter.py:46:WARNING:Error in function get_maxDocuments
+2020-08-14 11:01:55,827:dBAdapter.py:131:WARNING:Error in function selectGenerator_normalize_limit
+2020-08-14 11:01:55,827:dBAdapter.py:120:WARNING:Error in function selectDic_subtitles_limit
+2020-08-14 11:03:15,269:dBAdapter.py:131:WARNING:Error in function selectGenerator_normalize_limit
+2020-08-14 11:03:45,283:dBAdapter.py:120:WARNING:Error in function selectDic_subtitles_limit

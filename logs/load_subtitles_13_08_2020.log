@@ -1,0 +1,3 @@
+2020-08-13 12:09:10,615:dBAdapter.py:131:WARNING:Error in function selectGenerator_normalize_limit
+2020-08-13 12:09:26,055:dBAdapter.py:120:WARNING:Error in function selectDic_subtitles_limit
+2020-08-13 14:13:15,306:dBAdapter.py:120:WARNING:Error in function selectDic_subtitles_limit

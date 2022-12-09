@@ -1,0 +1,25 @@
+CREATE TABLE `body` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `body` mediumtext DEFAULT NULL,
+  `subtitles_id` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  FOREIGN KEY (`subtitles_id`) REFERENCES `subtitles` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+
+
+CREATE TABLE `normalize` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `normalize` mediumtext DEFAULT NULL,
+  `subtitles_id` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  FOREIGN KEY (`subtitles_id`) REFERENCES `subtitles` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+
+
+CREATE TABLE `doc2vec` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `doc2vec` mediumtext DEFAULT NULL,
+  `subtitles_id` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  FOREIGN KEY (`subtitles_id`) REFERENCES `subtitles` (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8

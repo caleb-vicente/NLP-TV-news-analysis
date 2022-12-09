@@ -1,0 +1,9 @@
+[{
+	"id" : 9,
+	"name" : "antena3_2019 09 18_morning_new",
+	"date" : "2019 09 18",
+	"state" : "active",
+	"autotimestamp" : "2020-06-01T08:58:30Z",
+	"body" : "15:00:10] Son los restos de la avioneta\n que se ha estrellado hoy\n en el mar Menor, en Murcia.\n Han muerto el instructor\n de vuelo y su alumna.\n Salieron de San-Javier y cayeron\n a plomo",
+	"channel" : "antena3"
+}, { "type": "home", "number": "212-555-1234" }, { "type": "cell", "number": "646-555-4567" }, { "type": "office", "number": "202-555-0182"}]

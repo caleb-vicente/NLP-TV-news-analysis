@@ -1,0 +1,6 @@
+2020-06-03 16:48:57,498:ldamodel.py:145:WARNING:updated prior is not positive
+2020-06-03 17:00:39,264:create_corpus.py:94:WARNING:RuntimeError---- in normalization text (Preparation corpus in lda)  first time generator fails. 
+2020-06-03 17:00:44,558:ldamodel.py:145:WARNING:updated prior is not positive
+2020-06-03 17:00:44,735:ldamodel.py:145:WARNING:updated prior is not positive
+2020-06-03 17:02:34,802:ldamodel.py:145:WARNING:updated prior is not positive
+2020-06-03 17:02:34,939:ldamodel.py:145:WARNING:updated prior is not positive

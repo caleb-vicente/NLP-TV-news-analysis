@@ -1,0 +1,284 @@
+2020-05-30 11:11:08,397:create_corpus.py:94:WARNING:RuntimeError---- in normalization text (Preparation corpus in lda)  first time generator fails. 
+2020-05-30 11:17:43,328:get_data.py:80:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-30 11:17:43,328:get_data.py:82:WARNING:El subtitulo: subtitles\antena3 HD_spa_TXT.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-30 11:17:44,335:get_data.py:80:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogmorning_new está vacio 
+
+2020-05-30 11:17:44,335:get_data.py:82:WARNING:El subtitulo: subtitles\antena3_spa_OCR.st 2019 10 18.xlogafternoon_new está vacio 
+
+2020-05-30 11:17:48,023:get_data.py:98:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 29.xlog cant be decodified  
+
+2020-05-30 11:17:48,023:get_data.py:98:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2016 12 30.xlog cant be decodified  
+
+2020-05-30 11:17:51,186:get_data.py:98:WARNING:UnicodeDecodeError --- The subtititle: subtitles\La 1_spa_OCR.st 2017 02 20.xlog cant be decodified  
+
+2020-05-30 11:17:51,675:get_data.py:80:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 05.xlogmorning_new está vacio 
+
+2020-05-30 11:17:52,162:get_data.py:80:WARNING:El subtitulo: subtitles\La 1_spa_OCR.st 2017 03 21.xlogmorning_new está vacio 
+
+2020-05-30 11:17:52,958:create_corpus.py:220:WARNING:la clave antena3_2019 09 14_morning_new esta repetida
+2020-05-30 11:17:52,959:create_corpus.py:220:WARNING:la clave antena3_2019 09 14_afternoon_new esta repetida
+2020-05-30 11:17:52,959:create_corpus.py:220:WARNING:la clave antena3_2019 09 15_morning_new esta repetida
+2020-05-30 11:17:52,959:create_corpus.py:220:WARNING:la clave antena3_2019 09 15_afternoon_new esta repetida
+2020-05-30 11:17:52,959:create_corpus.py:220:WARNING:la clave antena3_2019 09 16_morning_new esta repetida
+2020-05-30 11:17:52,959:create_corpus.py:220:WARNING:la clave antena3_2019 09 16_afternoon_new esta repetida
+2020-05-30 11:17:52,959:create_corpus.py:220:WARNING:la clave antena3_2019 09 17_morning_new esta repetida
+2020-05-30 11:17:52,959:create_corpus.py:220:WARNING:la clave antena3_2019 09 17_afternoon_new esta repetida
+2020-05-30 11:17:52,959:create_corpus.py:220:WARNING:la clave antena3_2019 09 18_morning_new esta repetida
+2020-05-30 11:17:52,960:create_corpus.py:220:WARNING:la clave antena3_2019 09 18_afternoon_new esta repetida
+2020-05-30 11:17:52,960:create_corpus.py:220:WARNING:la clave antena3_2019 09 19_morning_new esta repetida
+2020-05-30 11:17:52,960:create_corpus.py:220:WARNING:la clave antena3_2019 09 19_afternoon_new esta repetida
+2020-05-30 11:17:52,960:create_corpus.py:220:WARNING:la clave antena3_2019 09 20_morning_new esta repetida
+2020-05-30 11:17:52,960:create_corpus.py:220:WARNING:la clave antena3_2019 09 20_afternoon_new esta repetida
+2020-05-30 11:17:52,960:create_corpus.py:220:WARNING:la clave antena3_2019 09 21_morning_new esta repetida
+2020-05-30 11:17:52,960:create_corpus.py:220:WARNING:la clave antena3_2019 09 21_afternoon_new esta repetida
+2020-05-30 11:17:52,960:create_corpus.py:220:WARNING:la clave antena3_2019 09 22_morning_new esta repetida
+2020-05-30 11:17:52,960:create_corpus.py:220:WARNING:la clave antena3_2019 09 22_afternoon_new esta repetida
+2020-05-30 11:17:52,961:create_corpus.py:220:WARNING:la clave antena3_2019 09 23_morning_new esta repetida
+2020-05-30 11:17:52,961:create_corpus.py:220:WARNING:la clave antena3_2019 09 23_afternoon_new esta repetida
+2020-05-30 11:17:52,961:create_corpus.py:220:WARNING:la clave antena3_2019 09 24_morning_new esta repetida
+2020-05-30 11:17:52,961:create_corpus.py:220:WARNING:la clave antena3_2019 09 24_afternoon_new esta repetida
+2020-05-30 11:17:52,961:create_corpus.py:220:WARNING:la clave antena3_2019 09 25_morning_new esta repetida
+2020-05-30 11:17:52,961:create_corpus.py:220:WARNING:la clave antena3_2019 09 25_afternoon_new esta repetida
+2020-05-30 11:17:52,962:create_corpus.py:220:WARNING:la clave antena3_2019 09 26_morning_new esta repetida
+2020-05-30 11:17:52,962:create_corpus.py:220:WARNING:la clave antena3_2019 09 26_afternoon_new esta repetida
+2020-05-30 11:17:52,962:create_corpus.py:220:WARNING:la clave antena3_2019 09 27_morning_new esta repetida
+2020-05-30 11:17:52,962:create_corpus.py:220:WARNING:la clave antena3_2019 09 27_afternoon_new esta repetida
+2020-05-30 11:17:52,962:create_corpus.py:220:WARNING:la clave antena3_2019 09 28_morning_new esta repetida
+2020-05-30 11:17:52,962:create_corpus.py:220:WARNING:la clave antena3_2019 09 28_afternoon_new esta repetida
+2020-05-30 11:17:52,962:create_corpus.py:220:WARNING:la clave antena3_2019 09 29_morning_new esta repetida
+2020-05-30 11:17:52,962:create_corpus.py:220:WARNING:la clave antena3_2019 09 29_afternoon_new esta repetida
+2020-05-30 11:17:52,963:create_corpus.py:220:WARNING:la clave antena3_2019 09 30_morning_new esta repetida
+2020-05-30 11:17:52,963:create_corpus.py:220:WARNING:la clave antena3_2019 09 30_afternoon_new esta repetida
+2020-05-30 11:17:52,963:create_corpus.py:220:WARNING:la clave antena3_2019 10 01_morning_new esta repetida
+2020-05-30 11:17:52,966:create_corpus.py:220:WARNING:la clave antena3_2019 10 01_afternoon_new esta repetida
+2020-05-30 11:17:52,966:create_corpus.py:220:WARNING:la clave antena3_2019 10 02_morning_new esta repetida
+2020-05-30 11:17:52,966:create_corpus.py:220:WARNING:la clave antena3_2019 10 02_afternoon_new esta repetida
+2020-05-30 11:17:52,966:create_corpus.py:220:WARNING:la clave antena3_2019 10 03_morning_new esta repetida
+2020-05-30 11:17:52,967:create_corpus.py:220:WARNING:la clave antena3_2019 10 03_afternoon_new esta repetida
+2020-05-30 11:17:52,967:create_corpus.py:220:WARNING:la clave antena3_2019 10 04_morning_new esta repetida
+2020-05-30 11:17:52,967:create_corpus.py:220:WARNING:la clave antena3_2019 10 04_afternoon_new esta repetida
+2020-05-30 11:17:52,967:create_corpus.py:220:WARNING:la clave antena3_2019 10 05_morning_new esta repetida
+2020-05-30 11:17:52,968:create_corpus.py:220:WARNING:la clave antena3_2019 10 05_afternoon_new esta repetida
+2020-05-30 11:17:52,968:create_corpus.py:220:WARNING:la clave antena3_2019 10 06_morning_new esta repetida
+2020-05-30 11:17:52,968:create_corpus.py:220:WARNING:la clave antena3_2019 10 06_afternoon_new esta repetida
+2020-05-30 11:17:52,968:create_corpus.py:220:WARNING:la clave antena3_2019 10 07_morning_new esta repetida
+2020-05-30 11:17:52,968:create_corpus.py:220:WARNING:la clave antena3_2019 10 07_afternoon_new esta repetida
+2020-05-30 11:17:52,968:create_corpus.py:220:WARNING:la clave antena3_2019 10 08_morning_new esta repetida
+2020-05-30 11:17:52,968:create_corpus.py:220:WARNING:la clave antena3_2019 10 08_afternoon_new esta repetida
+2020-05-30 11:17:52,968:create_corpus.py:220:WARNING:la clave antena3_2019 10 09_morning_new esta repetida
+2020-05-30 11:17:52,968:create_corpus.py:220:WARNING:la clave antena3_2019 10 09_afternoon_new esta repetida
+2020-05-30 11:17:52,969:create_corpus.py:220:WARNING:la clave antena3_2019 10 10_morning_new esta repetida
+2020-05-30 11:17:52,969:create_corpus.py:220:WARNING:la clave antena3_2019 10 10_afternoon_new esta repetida
+2020-05-30 11:17:52,969:create_corpus.py:220:WARNING:la clave antena3_2019 10 11_morning_new esta repetida
+2020-05-30 11:17:52,969:create_corpus.py:220:WARNING:la clave antena3_2019 10 11_afternoon_new esta repetida
+2020-05-30 11:17:52,969:create_corpus.py:220:WARNING:la clave antena3_2019 10 12_morning_new esta repetida
+2020-05-30 11:17:52,969:create_corpus.py:220:WARNING:la clave antena3_2019 10 12_afternoon_new esta repetida
+2020-05-30 11:17:52,969:create_corpus.py:220:WARNING:la clave antena3_2019 10 13_morning_new esta repetida
+2020-05-30 11:17:52,969:create_corpus.py:220:WARNING:la clave antena3_2019 10 13_afternoon_new esta repetida
+2020-05-30 11:17:52,970:create_corpus.py:220:WARNING:la clave antena3_2019 10 14_morning_new esta repetida
+2020-05-30 11:17:52,971:create_corpus.py:220:WARNING:la clave antena3_2019 10 14_afternoon_new esta repetida
+2020-05-30 11:17:52,971:create_corpus.py:220:WARNING:la clave antena3_2019 10 15_morning_new esta repetida
+2020-05-30 11:17:52,972:create_corpus.py:220:WARNING:la clave antena3_2019 10 15_afternoon_new esta repetida
+2020-05-30 11:17:52,972:create_corpus.py:220:WARNING:la clave antena3_2019 10 16_morning_new esta repetida
+2020-05-30 11:17:52,972:create_corpus.py:220:WARNING:la clave antena3_2019 10 16_afternoon_new esta repetida
+2020-05-30 11:17:52,972:create_corpus.py:220:WARNING:la clave antena3_2019 10 17_morning_new esta repetida
+2020-05-30 11:17:52,972:create_corpus.py:220:WARNING:la clave antena3_2019 10 17_afternoon_new esta repetida
+2020-05-30 11:17:52,973:create_corpus.py:220:WARNING:la clave antena3_2019 09 14_morning_new esta repetida
+2020-05-30 11:17:52,973:create_corpus.py:220:WARNING:la clave antena3_2019 09 14_afternoon_new esta repetida
+2020-05-30 11:17:52,973:create_corpus.py:220:WARNING:la clave antena3_2019 09 15_morning_new esta repetida
+2020-05-30 11:17:52,973:create_corpus.py:220:WARNING:la clave antena3_2019 09 15_afternoon_new esta repetida
+2020-05-30 11:17:52,973:create_corpus.py:220:WARNING:la clave antena3_2019 09 16_morning_new esta repetida
+2020-05-30 11:17:52,973:create_corpus.py:220:WARNING:la clave antena3_2019 09 16_afternoon_new esta repetida
+2020-05-30 11:17:52,973:create_corpus.py:220:WARNING:la clave antena3_2019 09 17_morning_new esta repetida
+2020-05-30 11:17:52,973:create_corpus.py:220:WARNING:la clave antena3_2019 09 17_afternoon_new esta repetida
+2020-05-30 11:17:52,973:create_corpus.py:220:WARNING:la clave antena3_2019 09 18_morning_new esta repetida
+2020-05-30 11:17:52,974:create_corpus.py:220:WARNING:la clave antena3_2019 09 18_afternoon_new esta repetida
+2020-05-30 11:17:52,974:create_corpus.py:220:WARNING:la clave antena3_2019 09 19_morning_new esta repetida
+2020-05-30 11:17:52,974:create_corpus.py:220:WARNING:la clave antena3_2019 09 19_afternoon_new esta repetida
+2020-05-30 11:17:52,974:create_corpus.py:220:WARNING:la clave antena3_2019 09 20_morning_new esta repetida
+2020-05-30 11:17:52,974:create_corpus.py:220:WARNING:la clave antena3_2019 09 20_afternoon_new esta repetida
+2020-05-30 11:17:52,974:create_corpus.py:220:WARNING:la clave antena3_2019 09 21_morning_new esta repetida
+2020-05-30 11:17:52,974:create_corpus.py:220:WARNING:la clave antena3_2019 09 21_afternoon_new esta repetida
+2020-05-30 11:17:52,974:create_corpus.py:220:WARNING:la clave antena3_2019 09 22_morning_new esta repetida
+2020-05-30 11:17:52,974:create_corpus.py:220:WARNING:la clave antena3_2019 09 22_afternoon_new esta repetida
+2020-05-30 11:17:52,975:create_corpus.py:220:WARNING:la clave antena3_2019 09 23_morning_new esta repetida
+2020-05-30 11:17:52,975:create_corpus.py:220:WARNING:la clave antena3_2019 09 23_afternoon_new esta repetida
+2020-05-30 11:17:52,975:create_corpus.py:220:WARNING:la clave antena3_2019 09 24_morning_new esta repetida
+2020-05-30 11:17:52,975:create_corpus.py:220:WARNING:la clave antena3_2019 09 24_afternoon_new esta repetida
+2020-05-30 11:17:52,975:create_corpus.py:220:WARNING:la clave antena3_2019 09 25_morning_new esta repetida
+2020-05-30 11:17:52,975:create_corpus.py:220:WARNING:la clave antena3_2019 09 25_afternoon_new esta repetida
+2020-05-30 11:17:52,975:create_corpus.py:220:WARNING:la clave antena3_2019 09 26_morning_new esta repetida
+2020-05-30 11:17:52,975:create_corpus.py:220:WARNING:la clave antena3_2019 09 26_afternoon_new esta repetida
+2020-05-30 11:17:52,975:create_corpus.py:220:WARNING:la clave antena3_2019 09 27_morning_new esta repetida
+2020-05-30 11:17:52,976:create_corpus.py:220:WARNING:la clave antena3_2019 09 27_afternoon_new esta repetida
+2020-05-30 11:17:52,976:create_corpus.py:220:WARNING:la clave antena3_2019 09 28_morning_new esta repetida
+2020-05-30 11:17:52,976:create_corpus.py:220:WARNING:la clave antena3_2019 09 28_afternoon_new esta repetida
+2020-05-30 11:17:52,976:create_corpus.py:220:WARNING:la clave antena3_2019 09 29_morning_new esta repetida
+2020-05-30 11:17:52,976:create_corpus.py:220:WARNING:la clave antena3_2019 09 29_afternoon_new esta repetida
+2020-05-30 11:17:52,976:create_corpus.py:220:WARNING:la clave antena3_2019 09 30_morning_new esta repetida
+2020-05-30 11:17:52,976:create_corpus.py:220:WARNING:la clave antena3_2019 09 30_afternoon_new esta repetida
+2020-05-30 11:17:52,976:create_corpus.py:220:WARNING:la clave antena3_2019 10 01_morning_new esta repetida
+2020-05-30 11:17:52,977:create_corpus.py:220:WARNING:la clave antena3_2019 10 01_afternoon_new esta repetida
+2020-05-30 11:17:52,977:create_corpus.py:220:WARNING:la clave antena3_2019 10 02_morning_new esta repetida
+2020-05-30 11:17:52,977:create_corpus.py:220:WARNING:la clave antena3_2019 10 02_afternoon_new esta repetida
+2020-05-30 11:17:52,977:create_corpus.py:220:WARNING:la clave antena3_2019 10 03_morning_new esta repetida
+2020-05-30 11:17:52,977:create_corpus.py:220:WARNING:la clave antena3_2019 10 03_afternoon_new esta repetida
+2020-05-30 11:17:52,977:create_corpus.py:220:WARNING:la clave antena3_2019 10 04_morning_new esta repetida
+2020-05-30 11:17:52,977:create_corpus.py:220:WARNING:la clave antena3_2019 10 04_afternoon_new esta repetida
+2020-05-30 11:17:52,977:create_corpus.py:220:WARNING:la clave antena3_2019 10 05_morning_new esta repetida
+2020-05-30 11:17:52,977:create_corpus.py:220:WARNING:la clave antena3_2019 10 05_afternoon_new esta repetida
+2020-05-30 11:17:52,977:create_corpus.py:220:WARNING:la clave antena3_2019 10 06_morning_new esta repetida
+2020-05-30 11:17:52,977:create_corpus.py:220:WARNING:la clave antena3_2019 10 06_afternoon_new esta repetida
+2020-05-30 11:17:52,977:create_corpus.py:220:WARNING:la clave antena3_2019 10 07_morning_new esta repetida
+2020-05-30 11:17:52,978:create_corpus.py:220:WARNING:la clave antena3_2019 10 07_afternoon_new esta repetida
+2020-05-30 11:17:52,978:create_corpus.py:220:WARNING:la clave antena3_2019 10 08_morning_new esta repetida
+2020-05-30 11:17:52,978:create_corpus.py:220:WARNING:la clave antena3_2019 10 08_afternoon_new esta repetida
+2020-05-30 11:17:52,978:create_corpus.py:220:WARNING:la clave antena3_2019 10 09_morning_new esta repetida
+2020-05-30 11:17:52,978:create_corpus.py:220:WARNING:la clave antena3_2019 10 09_afternoon_new esta repetida
+2020-05-30 11:17:52,978:create_corpus.py:220:WARNING:la clave antena3_2019 10 10_morning_new esta repetida
+2020-05-30 11:17:52,978:create_corpus.py:220:WARNING:la clave antena3_2019 10 10_afternoon_new esta repetida
+2020-05-30 11:17:52,978:create_corpus.py:220:WARNING:la clave antena3_2019 10 11_morning_new esta repetida
+2020-05-30 11:17:52,978:create_corpus.py:220:WARNING:la clave antena3_2019 10 11_afternoon_new esta repetida
+2020-05-30 11:17:52,978:create_corpus.py:220:WARNING:la clave antena3_2019 10 12_morning_new esta repetida
+2020-05-30 11:17:52,978:create_corpus.py:220:WARNING:la clave antena3_2019 10 12_afternoon_new esta repetida
+2020-05-30 11:17:52,979:create_corpus.py:220:WARNING:la clave antena3_2019 10 13_morning_new esta repetida
+2020-05-30 11:17:52,979:create_corpus.py:220:WARNING:la clave antena3_2019 10 13_afternoon_new esta repetida
+2020-05-30 11:17:52,979:create_corpus.py:220:WARNING:la clave antena3_2019 10 14_morning_new esta repetida
+2020-05-30 11:17:52,979:create_corpus.py:220:WARNING:la clave antena3_2019 10 14_afternoon_new esta repetida
+2020-05-30 11:17:52,979:create_corpus.py:220:WARNING:la clave antena3_2019 10 15_morning_new esta repetida
+2020-05-30 11:17:52,979:create_corpus.py:220:WARNING:la clave antena3_2019 10 15_afternoon_new esta repetida
+2020-05-30 11:17:52,979:create_corpus.py:220:WARNING:la clave antena3_2019 10 16_morning_new esta repetida
+2020-05-30 11:17:52,979:create_corpus.py:220:WARNING:la clave antena3_2019 10 16_afternoon_new esta repetida
+2020-05-30 11:17:52,979:create_corpus.py:220:WARNING:la clave antena3_2019 10 17_morning_new esta repetida
+2020-05-30 11:17:52,979:create_corpus.py:220:WARNING:la clave antena3_2019 10 17_afternoon_new esta repetida
+2020-05-30 11:26:06,360:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Millar
+2020-05-30 11:26:06,370:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: desbordase
+2020-05-30 11:26:06,385:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: torrenteras
+2020-05-30 11:26:06,387:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: gráficamente
+2020-05-30 11:26:06,388:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: preguna
+2020-05-30 11:26:06,398:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Gudiña
+2020-05-30 11:26:06,400:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Inquietante
+2020-05-30 11:26:06,402:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: proiraníes
+2020-05-30 11:26:06,414:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: vaciarlas
+2020-05-30 11:26:06,422:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Pepu-Hernández
+2020-05-30 11:26:06,425:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: raids
+2020-05-30 11:26:06,435:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: arruinadas
+2020-05-30 11:26:06,442:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Acudiremos
+2020-05-30 11:26:06,459:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Ponciano
+2020-05-30 11:26:06,461:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Alcáceres
+2020-05-30 11:26:06,471:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Vega-Alta
+2020-05-30 11:26:06,473:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Archena
+2020-05-30 11:26:06,484:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Desbordado
+2020-05-30 11:26:06,487:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Andando
+2020-05-30 11:26:06,497:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Beniel
+2020-05-30 11:26:06,505:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Inma-González
+2020-05-30 11:26:06,530:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Completamente
+2020-05-30 11:26:06,538:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Llegando
+2020-05-30 11:26:06,538:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Excavadoras
+2020-05-30 11:26:06,545:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: fastidiada
+2020-05-30 11:26:06,554:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Juanma-Corzo
+2020-05-30 11:26:06,556:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: cubitos
+2020-05-30 11:26:06,566:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Alahurín
+2020-05-30 11:26:06,570:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: cañada
+2020-05-30 11:26:06,579:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Himar
+2020-05-30 11:26:06,593:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Capaz
+2020-05-30 11:26:06,594:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: mejopr
+2020-05-30 11:26:06,597:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: chocándose
+2020-05-30 11:26:06,602:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: inundándolo
+2020-05-30 11:26:06,607:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: tratase
+2020-05-30 11:26:06,609:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Higuera
+2020-05-30 11:26:06,611:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: desoladoras
+2020-05-30 11:26:06,618:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: agarrada
+2020-05-30 11:26:06,624:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Cosechas
+2020-05-30 11:26:06,625:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Pasando
+2020-05-30 11:26:06,626:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: destructora
+2020-05-30 11:26:06,628:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Alcáceres
+2020-05-30 11:26:06,638:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Altet
+2020-05-30 11:26:06,643:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Alcáceres
+2020-05-30 11:26:06,648:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: catastófica
+2020-05-30 11:26:06,661:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Margarita-Robles
+2020-05-30 11:26:06,678:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: edificaciones
+2020-05-30 11:26:06,680:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: afanadas
+2020-05-30 11:26:06,685:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Gudiña
+2020-05-30 11:26:06,688:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: sensiblemente
+2020-05-30 11:26:06,707:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: formalidad
+2020-05-30 11:26:06,709:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: formalismo
+2020-05-30 11:26:06,716:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: refinerias
+2020-05-30 11:26:06,723:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: reivindicada
+2020-05-30 11:26:06,726:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Times
+2020-05-30 11:26:06,735:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Ocean-Viking
+2020-05-30 11:26:06,738:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Matteo-Salvini
+2020-05-30 11:26:06,739:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: mostrasen
+2020-05-30 11:26:06,741:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Desvalijaban
+2020-05-30 11:26:06,779:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Pepu-Hernández
+2020-05-30 11:26:06,780:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Curtois
+2020-05-30 11:26:06,782:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Vezo
+2020-05-30 11:26:06,793:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: terminase
+2020-05-30 11:26:06,794:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Borja-Mayoral
+2020-05-30 11:26:06,796:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: desaprovechadas
+2020-05-30 11:26:06,797:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Hazard
+2020-05-30 11:26:06,798:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Gonzalo-Melero
+2020-05-30 11:26:06,802:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Jugamos
+2020-05-30 11:26:06,805:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Takefusa-Kubo
+2020-05-30 11:26:06,807:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Prats
+2020-05-30 11:26:06,809:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Babá
+2020-05-30 11:26:06,809:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Manolo-Reina
+2020-05-30 11:26:06,813:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Pepu-Hernández
+2020-05-30 11:26:06,814:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Raúl-Meda
+2020-05-30 11:26:06,815:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Pepu
+2020-05-30 11:26:06,820:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Solo-Marc-Gasol
+2020-05-30 11:26:06,821:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Garbajosa
+2020-05-30 11:26:06,827:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Pepu
+2020-05-30 11:26:06,828:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Pude
+2020-05-30 11:26:06,831:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: raids
+2020-05-30 11:26:06,831:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Litchenburg
+2020-05-30 11:26:06,836:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Guinea
+2020-05-30 11:26:06,837:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: San-Fernando-Club
+2020-05-30 11:26:06,850:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Seguirán
+2020-05-30 11:26:06,860:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: trasladándose
+2020-05-30 11:26:06,861:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Vea
+2020-05-30 11:26:07,797:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Alharuín
+2020-05-30 11:26:07,823:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: tibieza
+2020-05-30 11:26:07,826:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Bin-Laden
+2020-05-30 11:26:07,826:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Hamza-Bin-Laden
+2020-05-30 11:26:07,827:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Qaeda
+2020-05-30 11:26:07,835:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Ponle-Freno-Axa
+2020-05-30 11:26:07,842:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Asag
+2020-05-30 11:26:07,852:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Molins
+2020-05-30 11:26:07,890:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Inma-González
+2020-05-30 11:26:07,932:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: terrero
+2020-05-30 11:26:07,938:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Mojón
+2020-05-30 11:26:07,938:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Beniel
+2020-05-30 11:26:07,954:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: fregonas
+2020-05-30 11:26:07,959:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: amaneza
+2020-05-30 11:26:07,965:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Ponciano
+2020-05-30 11:26:07,969:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Arreglar
+2020-05-30 11:26:07,973:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Juanma-Corzo
+2020-05-30 11:26:07,974:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Consorcio-Provincial
+2020-05-30 11:26:07,983:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: cañada
+2020-05-30 11:26:07,987:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: aguacates
+2020-05-30 11:26:08,001:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: delicadamente
+2020-05-30 11:26:08,008:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: feroz
+2020-05-30 11:26:08,010:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: zodiacs
+2020-05-30 11:26:08,012:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Alargando
+2020-05-30 11:26:08,013:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: arrasatrada
+2020-05-30 11:26:08,019:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Resulta
+2020-05-30 11:26:08,056:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Teodoro-García-Egea
+2020-05-30 11:26:08,061:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: enrarecida
+2020-05-30 11:26:08,071:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: foralidad
+2020-05-30 11:26:08,073:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: insitido
+2020-05-30 11:26:08,076:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Gudiña
+2020-05-30 11:26:08,081:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: sensiblemente
+2020-05-30 11:26:08,085:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Hazma-Bin-Laden
+2020-05-30 11:26:08,085:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Osama-Bin-Laden
+2020-05-30 11:26:08,087:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Qaeda
+2020-05-30 11:26:08,088:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Hazma-Bin-Laden
+2020-05-30 11:26:08,090:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Qaeda
+2020-05-30 11:26:08,098:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: San-Jaume
+2020-05-30 11:26:08,122:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Pasos
+2020-05-30 11:26:08,123:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Desafíos
+2020-05-30 11:26:08,128:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Estudios-Ponle-Freno
+2020-05-30 11:26:08,128:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: Axa
+2020-05-30 11:26:08,129:unsupervised_learning_gensim.py:77:WARNING:OSError --- key error: accidentalidad

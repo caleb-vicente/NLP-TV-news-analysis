@@ -1,0 +1,7 @@
+pip install pattern3
+
+pip install mysql-connector-python-rf
+
+pip install progressbar
+
+pip install spellchecker
