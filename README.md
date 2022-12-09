@@ -41,8 +41,12 @@ Para la ejecución del proyecto se han usado los siguientes algoritmos. (Más ab
 ## Bibliography
 [1] G. C. Tomas Mikolov Kai Chen y J. Dean, “Efficient Estimation of Word Repre-
 sentations in Vector Space” https://arxiv.org/abs/1301.3781
+
 [2] J. C. P. Dawn Chen y T. L. Griffiths, “Evaluating vector-space models of analogy” https://arxiv.org/abs/1705.04416
+
 [3] A. Y. N. David M. Blei y M. I. Jordan, “Latent Dirichlet Allocation” https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
+
 [4] Q. Le y T. Mikolov, “Distributed Representations of Sentences and Documents” https://arxiv.org/pdf/1405.4053.pdf
+
 [5] T. Hofmann, “Probabilistic Latent Semantic Analysis”, Proceedings of the Twenty-
 Second Annual International SIGIR Conference on Research and Development in Information Retrieval (SIGIR-99) https://arxiv.org/abs/1301.6705
