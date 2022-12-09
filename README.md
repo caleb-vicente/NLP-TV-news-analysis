@@ -25,10 +25,15 @@ Para la ejecución del proyecto se han usado los siguientes algoritmos. (Más ab
 
 ## Structure of the code
 `pre` folder: se encarga tanto de la lectura de los documentos que contienen los subtítulos, así como el proceso de ingesta y preprocesado de información.
+
 `lda` folder: Entrenamiento del algoritmo LDA previamente explicado.
+
 `lsa` folder: Entrenamiento del algoritmo LSA. Como entrada del algoritmo se ha aplicado TF-IDF a los embeddings originales.
+
 `doc2vec` folder: Aplicación de Doc2Vec.
+
 `classification` folder: Aplicación de clustering a los datos de salida de los algoritmos lda, lsa o doc2vec.
+
 `DBAdapter` folder: En la aplicación original del código se usó una base de datos para guardar los datos originales y los procesados.
 
 ## Results
