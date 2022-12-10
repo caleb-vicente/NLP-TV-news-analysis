@@ -1,48 +1,49 @@
 # NLP-TV news analysis
-El desarrollo del proyecto está orientado a la extracción de temas y clasificación de documentos escritos, obtenidos a partir de subtítulos de emisiones televisivas. Para ello, se ha experimentado con diferentes algoritmos de vectorización de palabras y documentos, topic modeling y clustering.
+The development of the project is oriented to the extraction of topics and classification of written documents, obtained from subtitles of television broadcasts. For this purpose, we have experimented with different algorithms of word and document vectorization, topic modeling and clustering.
 ## Indroduction
-En cualquier problema relacionado con el análisis de datos (independientemente de los datos que se tengan o el campo de aplicación), se deben cumplir ciertas fases o procesos. Por tanto, el proyecto se dividió en las siguientes fases:
+In any problem related to data analysis (regardless of the data you have or the field of application), certain phases or processes must be fulfilled. Therefore, the project was divided into the following phases:
 
 ![alt text](https://github.com/caleb-vicente/NLP-TV-news-analysis/blob/main/img/stages_project.png)
 
-- **Preparación**: Durante esta fase se realizará desde la extracción de los datos, hasta la selección y almacenamiento de los mismos.
-- **Preprocesado**: Durante el preprocesado se desea preparar los datos para su posterior analysis. Si un algoritmo está bien seleccionado y funciona de manera correcta, pero los datos que se le introducen como entrada no son los adecuados, se obtendrán resultados negativos.
-- **Análisis**: Durante la etapa del análisis se pasará de tener simples colecciones de datos a extraer información de las mismos.
-- **Postprocesado**: Durante esta fase se evalúa la información obtenida a partir de la etapa de análisis. En este caso se ha usado TensorFlow Board, Matplotlib y PowerBI como princpipales herramientas.
+- **Preparation**: During this phase, data will be extracted, selected and stored.
+- **Preprocesado**: During preprocessing you want to prepare the data for further analysis. If an algorithm is well selected and works correctly, but the input data are not adequate, negative results will be obtained.
+- **Análisis**: During the analysis stage, you will move from having simple collections of data to extracting information from them.
+- **Postprocesado**: During this phase the information obtained from the analysis stage is evaluated. In this case TensorFlow Board, Matplotlib and PowerBI have been used as main tools.
 
 ## Models Used
-Para la ejecución del proyecto se han usado los siguientes algoritmos. (Más abajo podrá encontrar la bibliografía de toda la documentación utilizada)
+The following algorithms have been used for the execution of the project (below you will find the bibliography of all the documentation used)
 
-- **Vectorization algorithms:** Los algoritmos de vectorización, no son más que mecanismos capaces de transformar texto en vectores de características.
-	- **One Hot Encoding:** Cada vector de ceros contendrá un único elemento de valor uno, caracterizando la palabra en cuestión.
+- **Vectorization algorithms:** Vectorization algorithms are nothing more than mechanisms capable of transforming text into feature vectors.
+	- **One Hot Encoding:** Each vector of zeros will contain a single element of value one, characterizing the word in question.
 	- **Words Embeddings: ** The main idea behind these algorithms is to reduce the dimension of the word representation.
 		- **Word2Vec:** Algorithm self-supervised to represent similar words with closer vectors.
-		- **TF-IDF:** La idea principal es la multiplicación de dos términos distintos que aportan información complementaria.
+		- **TF-IDF:** The main idea is the multiplication of two different terms that provide complementary information.
 - **Topic Modeling:**
-	- **LSA:** Se basa en la reducción de dimensionalidad de la matriz palabras-documentos.
-	- **LDA:** Permite clasificar nuevos documentos sin tener que reentrenar con todos los datos de nuevo gracias a las generación de distribuciones de Dirichlet
-	- **Doc2Vec:** Doc2Vec es un método de representación de oraciones o documentos basado en las ideas propuestas en Word2Vec
+	- **LSA:** It is based on the dimensionality reduction of the word-document matrix.
+	- **LDA:** Allows to classify new documents without having to retrain with all the data again thanks to the generation of Dirichlet distributions.
+	- **Doc2Vec:** Doc2Vec is a method of representing sentences or documents based on the ideas proposed in Word2Vec.
 - **Clustering:**
-	- **K-means:** Algoritmo de clustering mediante la generación de centroides y calculo de distancias euclidias a los mismos.
+	- **K-means:** Clustering algorithm by generating centroids and calculating Euclidean distances to them.
 
 ## Structure of the code
 `pre` folder: se encarga tanto de la lectura de los documentos que contienen los subtítulos, así como el proceso de ingesta y preprocesado de información.
 
-`lda` folder: Entrenamiento del algoritmo LDA previamente explicado.
+`lda` folder: Training of the previously explained LDA algorithm.
 
-`lsa` folder: Entrenamiento del algoritmo LSA. Como entrada del algoritmo se ha aplicado TF-IDF a los embeddings originales.
+`lsa` folder: Training of the altorithem LSA. TF-IDF applied to the original embeddings acted as the input of the algorithm.
 
-`doc2vec` folder: Aplicación de Doc2Vec.
+`doc2vec` folder: Doc2Vec iplementation.
 
-`classification` folder: Aplicación de clustering a los datos de salida de los algoritmos lda, lsa o doc2vec.
+`classification` folder: Clustering implementation applied to the LSA, LDA and Doc2Vec algorithems.
 
-`DBAdapter` folder: En la aplicación original del código se usó una base de datos para guardar los datos originales y los procesados.
-
+`DBAdapter` folder: In the original application of the code, a database was used to store the original and processed data.
 ## Results
 
 ![alt text](https://github.com/caleb-vicente/NLP-TV-news-analysis/blob/main/img/topics.png)
+Satisfactory topic results have been generated with sufficient words distance.
 
 ![alt text](https://github.com/caleb-vicente/NLP-TV-news-analysis/blob/main/img/topics_day.png)
+There are specific days or weeks in which a special event occurs, in which a topic takes on greater importance. On the right we can see the temporal distribution of the topic "Independence of Catalonia" coinciding with the date on which the referendum was held in the region.
 
 ## Bibliography
 [1] G. C. Tomas Mikolov Kai Chen y J. Dean, “Efficient Estimation of Word Repre-
