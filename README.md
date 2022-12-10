@@ -6,14 +6,14 @@ In any problem related to data analysis (regardless of the data you have or the 
 ![alt text](https://github.com/caleb-vicente/NLP-TV-news-analysis/blob/main/img/stages_project.png)
 
 - **Preparation**: During this phase, data will be extracted, selected and stored.
-- **Preprocesado**: During preprocessing you want to prepare the data for further analysis. If an algorithm is well selected and works correctly, but the input data are not adequate, negative results will be obtained.
-- **Análisis**: During the analysis stage, you will move from having simple collections of data to extracting information from them.
-- **Postprocesado**: During this phase the information obtained from the analysis stage is evaluated. In this case TensorFlow Board, Matplotlib and PowerBI have been used as main tools.
+- **Preprocessing**: During preprocessing you want to prepare the data for further analysis. If an algorithm is well selected and works correctly, but the input data are not adequate, negative results will be obtained.
+- **Analysis**: During the analysis stage, you will move from having simple collections of data to extracting information from them.
+- **Postprocessing**: During this phase the information obtained from the analysis stage is evaluated. In this case TensorFlow Board, Matplotlib and PowerBI have been used as main tools.
 
 ## Models Used
 The following algorithms have been used for the execution of the project (below you will find the bibliography of all the documentation used)
 
-- **Vectorization algorithms:** Vectorization algorithms are nothing more than mechanisms capable of transforming text into feature vectors.
+- **Vectorization Algorithms:** Vectorization algorithms are nothing more than mechanisms capable of transforming text into feature vectors.
 	- **One Hot Encoding:** Each vector of zeros will contain a single element of value one, characterizing the word in question.
 	- **Words Embeddings: ** The main idea behind these algorithms is to reduce the dimension of the word representation.
 		- **Word2Vec:** Algorithm self-supervised to represent similar words with closer vectors.
