@@ -26,7 +26,7 @@ The following algorithms have been used for the execution of the project (below 
 	- **K-means:** Clustering algorithm by generating centroids and calculating Euclidean distances to them.
 
 ## Structure of the code
-`pre` folder: Is in charge of both the reading of the documents containing the subtitles, as well as the information ingestion and preprocessing process.
+`pre` folder: It is in charge of both the reading of the documents containing the subtitles, as well as the information ingestion and preprocessing process.
 
 `lda` folder: Training of the previously explained LDA algorithm.
 
@@ -40,9 +40,11 @@ The following algorithms have been used for the execution of the project (below 
 ## Results
 
 ![alt text](https://github.com/caleb-vicente/NLP-TV-news-analysis/blob/main/img/topics.png)
+
 Satisfactory topic results have been generated with sufficient words distance.
 
 ![alt text](https://github.com/caleb-vicente/NLP-TV-news-analysis/blob/main/img/topics_day.png)
+
 There are specific days or weeks in which a special event occurs, in which a topic takes on greater importance. On the right we can see the temporal distribution of the topic "Independence of Catalonia" coinciding with the date on which the referendum was held in the region.
 
 ## Bibliography
