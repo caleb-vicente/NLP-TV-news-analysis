@@ -26,7 +26,7 @@ The following algorithms have been used for the execution of the project (below 
 	- **K-means:** Clustering algorithm by generating centroids and calculating Euclidean distances to them.
 
 ## Structure of the code
-`pre` folder: se encarga tanto de la lectura de los documentos que contienen los subtítulos, así como el proceso de ingesta y preprocesado de información.
+`pre` folder: Is in charge of both the reading of the documents containing the subtitles, as well as the information ingestion and preprocessing process.
 
 `lda` folder: Training of the previously explained LDA algorithm.
 
